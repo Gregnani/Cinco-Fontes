@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@200&family=Roboto+Slab&family=Rubik+Iso&family=Space+Mono&display=swap');
+
+h1{
+    font-size: 50px;
+}
+
+p2,h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+
+p3,h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+h4, p4{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+
+h5, p5{
+    font-family: 'Space Mono', monospace;
+    font-size: 20px;
+}
+
+h6, p6{
+    font-family: 'Rubik Iso', cursive;
+    font-size: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quadro{
+    width: 400px;
+    padding: 20px; 
+    border-radius: 15px;
+    background-image:
+    linear-gradient(to right, #31d2fa, #38ffde);
+    color: white
+}
+
+
+
+
